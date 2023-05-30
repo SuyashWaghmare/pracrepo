@@ -1,1 +1,1 @@
-url=http://localhost:8081/pccoer-provider-service/getAllCourses
+pccoer.provider.getAllCourses.url=http://localhost:8081/pccoer-provider-service/getAllCourses
